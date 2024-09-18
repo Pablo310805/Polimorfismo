@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\18492\\Desktop\\ITLA\\PROGRAMACION 2\\Empleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16C8137A-B5C6-4F60-B46D-1059566D9497}|empleado\\empleado.csproj|c:\\users\\18492\\desktop\\itla\\programacion 2\\empleados\\empleado\\empleadohora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C8137A-B5C6-4F60-B46D-1059566D9497}|empleado\\empleado.csproj|solutionrelative:empleado\\empleadohora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C8137A-B5C6-4F60-B46D-1059566D9497}|empleado\\empleado.csproj|c:\\users\\18492\\desktop\\itla\\programacion 2\\empleados\\empleado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C8137A-B5C6-4F60-B46D-1059566D9497}|empleado\\empleado.csproj|solutionrelative:empleado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C8137A-B5C6-4F60-B46D-1059566D9497}|empleado\\empleado.csproj|c:\\users\\18492\\desktop\\itla\\programacion 2\\empleados\\empleado\\empleadoadministrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C8137A-B5C6-4F60-B46D-1059566D9497}|empleado\\empleado.csproj|solutionrelative:empleado\\empleadoadministrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C8137A-B5C6-4F60-B46D-1059566D9497}|empleado\\empleado.csproj|c:\\users\\18492\\desktop\\itla\\programacion 2\\empleados\\empleado\\contratofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C8137A-B5C6-4F60-B46D-1059566D9497}|empleado\\empleado.csproj|solutionrelative:empleado\\contratofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\18492\\Desktop\\ITLA\\PROGRAMACION 2\\Empleados\\empleado\\Program.cs",
+              "RelativeDocumentMoniker": "empleado\\Program.cs",
+              "ToolTip": "C:\\Users\\18492\\Desktop\\ITLA\\PROGRAMACION 2\\Empleados\\empleado\\Program.cs",
+              "RelativeToolTip": "empleado\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:00:47.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "empleadoHora.cs",
+              "DocumentMoniker": "C:\\Users\\18492\\Desktop\\ITLA\\PROGRAMACION 2\\Empleados\\empleado\\empleadoHora.cs",
+              "RelativeDocumentMoniker": "empleado\\empleadoHora.cs",
+              "ToolTip": "C:\\Users\\18492\\Desktop\\ITLA\\PROGRAMACION 2\\Empleados\\empleado\\empleadoHora.cs",
+              "RelativeToolTip": "empleado\\empleadoHora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:00:46.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoAdministrativo.cs",
+              "DocumentMoniker": "C:\\Users\\18492\\Desktop\\ITLA\\PROGRAMACION 2\\Empleados\\empleado\\EmpleadoAdministrativo.cs",
+              "RelativeDocumentMoniker": "empleado\\EmpleadoAdministrativo.cs",
+              "ToolTip": "C:\\Users\\18492\\Desktop\\ITLA\\PROGRAMACION 2\\Empleados\\empleado\\EmpleadoAdministrativo.cs",
+              "RelativeToolTip": "empleado\\EmpleadoAdministrativo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:00:45.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContratoFijo.cs",
+              "DocumentMoniker": "C:\\Users\\18492\\Desktop\\ITLA\\PROGRAMACION 2\\Empleados\\empleado\\ContratoFijo.cs",
+              "RelativeDocumentMoniker": "empleado\\ContratoFijo.cs",
+              "ToolTip": "C:\\Users\\18492\\Desktop\\ITLA\\PROGRAMACION 2\\Empleados\\empleado\\ContratoFijo.cs",
+              "RelativeToolTip": "empleado\\ContratoFijo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:00:39.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
